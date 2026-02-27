@@ -1,2 +1,7 @@
 # dbZero
-writing database from scratch
+Writing database from scratch.
+
+
+| References |
+| :--- |
+| https://build-your-own.org/database/ |
